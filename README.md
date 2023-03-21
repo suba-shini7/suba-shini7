@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **domestic rescue**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **shubashunmugam@gmail.com**
 

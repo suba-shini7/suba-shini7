@@ -6,15 +6,18 @@
 
 <p align="left"> <a href="https://twitter.com/@suba_shini7" target="blank"><img src="https://img.shields.io/twitter/follow/@suba_shini7?logo=twitter&style=for-the-badge" alt="@suba_shini7" /></a> </p>
 
-- 🔭 I’m currently working on **domestic rescue**
+- 🔭 I’m currently working on **Gaining knowledge**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web development**
 
-- 📫 How to reach me **shubashunmugam@gmail.com**
+- 📫 How to reach me **shubashunmugam@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@suba_shini7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suba_shini7" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/subashini-shunmugam-234754267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@suba_shini7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

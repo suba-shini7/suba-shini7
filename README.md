@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suba-shini7&label=Profile%20views&color=0e75b6&style=flat" alt="suba-shini7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@suba_shini7" target="blank"><img src="https://img.shields.io/twitter/follow/@suba_shini7?logo=twitter&style=for-the-badge" alt="@suba_shini7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@suba_shini7" target="blank"></a> </p>
 
 - 🔭 I’m currently working on **Gaining knowledge**
 

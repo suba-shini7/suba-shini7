@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Gaining knowledge & skills**
 
-- 🌱 I’m currently learning **FullStack**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **shubashunmugam@gmail.com **
 

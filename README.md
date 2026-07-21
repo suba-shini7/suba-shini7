@@ -1,25 +1,145 @@
-<h1 align="center">Hi 👋, I'm Suba</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg">
+```markdown
+<h1 align="center">Hi 👋, I'm Subashini</h1>
+<h3 align="center">Assistant Professor | AI Enthusiast | Machine Learning & Large Language Models Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suba-shini7&label=Profile%20views&color=0e75b6&style=flat" alt="suba-shini7" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@suba_shini7" target="blank"></a> </p>
-
-- 🔭 I’m currently working on **Gaining knowledge & skills**
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **shubashunmugam@gmail.com **
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@suba_shini7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@suba_shini7" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/subashini-shunmugam-234754267" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113575392/227770569-23639424-f209-419b-a320-00e99875dfba.png" alt="subashini" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Assistant+Professor+in+Computer+Science;Machine+Learning+%7C+LLMs+%7C+Deep+Learning;Python+Developer;Database+Management+Systems;Always+Learning+Something+New+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg">
 
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Assistant Professor in Computer Science
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models**
+- 🔬 Currently exploring **Transformer Architecture, Prompt Engineering, Local LLMs, Quantization, and Retrieval-Augmented Generation (RAG)**
+- 💡 Interested in **AI Research, NLP, Data Science, and Intelligent Systems**
+- 📚 Teaching subjects including:
+  - Database Management Systems
+  - Machine Learning
+  - Large Language Models
+  - Network Security
+  - Data Ethics & Privacy
+- 🌱 Always learning new technologies and building practical AI projects
+- 🎯 Goal: Build intelligent AI systems that solve real-world problems
+
+---
+
+## 🚀 Current Focus
+
+- 🧠 Large Language Models (LLMs)
+- 🔥 Prompt Engineering
+- 📊 Machine Learning
+- 🤖 Deep Learning
+- 🧩 Reinforcement Learning
+- 📈 Data Analytics
+- 🗄 Database Design
+- ☁ AI Applications
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,react,flutter,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+## 🤖 AI & Data Science
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</p>
+
+- Hugging Face Transformers
+- LangChain
+- OpenAI API
+- Prompt Engineering
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 📚 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Natural Language Processing
+- Computer Vision
+- Reinforcement Learning
+- Database Systems
+- Data Analytics
+- AI Ethics
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/subashini-shunmugam-234754267">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:shubashunmugam@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/suba-shini7">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suba-shini7&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=suba-shini7&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suba-shini7&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=suba-shini7&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## ✨ Quote
+
+> **"Learning never exhausts the mind; it empowers us to build the future with technology."**
+
+---
+
+<p align="center">
+⭐ Thank you for visiting my profile! ⭐
+</p>
+```

@@ -5,7 +5,9 @@ Hi 👋, I'm Subashini
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff"/>
 </p>
-```markdown
+
+---
+
 ## 👩‍💻 About Me
 
 - 🎓 Assistant Professor – Computer Science

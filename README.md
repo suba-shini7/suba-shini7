@@ -23,7 +23,6 @@ Hi 👋, I'm Subashini
 </p>
 
 ---
-
 ## 🚀 Current Focus
 
 - 🤖 Large Language Models (LLMs)
@@ -31,48 +30,8 @@ Hi 👋, I'm Subashini
 - 🎯 Reinforcement Learning
 - 📊 Machine Learning
 - 📈 Data Analytics
-- 🔐 Network Security
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suba-shini7&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=suba-shini7&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suba-shini7&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suba-shini7&theme=algolia&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suba-shini7&theme=tokyo-night"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -81,7 +40,7 @@ Hi 👋, I'm Subashini
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="mailto:shubashunmugam@gmail.com">
+<a href="mailto:subashini.shunmugam@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
@@ -98,4 +57,3 @@ Hi 👋, I'm Subashini
 > *"Learning never stops. Every project is another step toward innovation."*
 
 ---
-```

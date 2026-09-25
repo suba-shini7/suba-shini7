@@ -10,7 +10,7 @@ Hi 👋, I'm Subashini
 
 ## 👩‍💻 About Me
 
-- 🎓 Assistant Professor – Computer Science
+- 🎓 Assistant Professor – Computer Science with Artificial Intelligence 
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models**
 - 🔬 Exploring **Local LLMs, Prompt Engineering, Retrieval-Augmented Generation (RAG), and Transformers**
 - 📚 Teaching **Database Management Systems, Machine Learning, Large Language Models, and Network Security**

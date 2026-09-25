@@ -8,33 +8,33 @@ Hi 👋, I'm Subashini
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 Assistant Professor – Computer Science with Artificial Intelligence 
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models**
-- 🔬 Exploring **Local LLMs, Prompt Engineering, Retrieval-Augmented Generation (RAG), and Transformers**
-- 📚 Teaching **Database Management Systems, Machine Learning, Large Language Models, and Network Security**
-- 🌱 Always learning new technologies and building practical AI projects
+-  Assistant Professor – Computer Science with Artificial Intelligence 
+-  Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models**
+-  Exploring **Local LLMs, Prompt Engineering, Retrieval-Augmented Generation (RAG), and Transformers**
+-  Teaching **Database Management Systems, Machine Learning, Large Language Models, and Network Security**
+-  Always learning new technologies and building practical AI projects
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,react,mysql,git,github,vscode,pytorch,tensorflow" />
 </p>
 
 ---
-## 🚀 Current Focus
+##  Current Focus
 
-- 🤖 Large Language Models (LLMs)
-- 💬 Prompt Engineering
-- 🎯 Reinforcement Learning
-- 📊 Machine Learning
-- 📈 Data Analytics
+-  Large Language Models (LLMs)
+-  Prompt Engineering
+-  Reinforcement Learning
+-  Machine Learning
+-  Data Analytics
 
 ---
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -54,7 +54,7 @@ Hi 👋, I'm Subashini
 
 ---
 
-## 💡 Quote
+##  Quote
 
 > *"Learning never stops. Every project is another step toward innovation."*
 
